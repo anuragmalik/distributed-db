@@ -1,0 +1,6 @@
+{
+  "name": "Distributed-db",
+  "tagline": "AmazonDB like distributed key-value store, built using consistent hashing on virtual nodes, fault taulerant replication with Hinted-Handoff mechanism and Anti-Entropy using Merkel Trees.",
+  "body": "This is a trial web-page on Github pages. I am starting to add blog posts about my work.\r\nThis one is for Amazon Dynamo DB like distributed key-value stores. I'll study and add interview questions about all of them.\r\n\r\nLets try some code now:\r\n'int x = 2'\r\n'''java\r\npublic static void main(String args[]) {\r\n    System.out.println(\"Hello Github!\");\r\n}\r\n'''\r\n### Creating pages manually\r\nIf you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.\r\n\r\n@anuragmalik",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
